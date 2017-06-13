@@ -1,0 +1,10 @@
+.vs
+packages
+JDash.NetFramework.Api\bin
+JDash.NetFramework.Api\obj
+JDash.NetFramework.Models\bin
+JDash.NetFramework.Models\obj
+JDash.NetFramework.Provider.MsSQL\bin
+JDash.NetFramework.Provider.MsSQL\obj
+JDash.NetFramework.Provider.MySQL\bin
+JDash.NetFramework.Provider.MySQL\obj

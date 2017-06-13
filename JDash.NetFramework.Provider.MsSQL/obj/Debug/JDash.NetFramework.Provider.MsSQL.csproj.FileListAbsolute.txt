@@ -1,0 +1,9 @@
+c:\users\volkan\documents\visual studio 2017\Projects\jdash-netstandart-api\JDash.NetFramework.Provider.MsSQL\bin\Debug\JDash.NetFramework.Provider.MsSQL.dll
+c:\users\volkan\documents\visual studio 2017\Projects\jdash-netstandart-api\JDash.NetFramework.Provider.MsSQL\bin\Debug\JDash.NetFramework.Provider.MsSQL.pdb
+c:\users\volkan\documents\visual studio 2017\Projects\jdash-netstandart-api\JDash.NetFramework.Provider.MsSQL\obj\Debug\JDash.NetFramework.Provider.MsSQL.csprojResolveAssemblyReference.cache
+c:\users\volkan\documents\visual studio 2017\Projects\jdash-netstandart-api\JDash.NetFramework.Provider.MsSQL\obj\Debug\JDash.NetFramework.Provider.MsSQL.dll
+c:\users\volkan\documents\visual studio 2017\Projects\jdash-netstandart-api\JDash.NetFramework.Provider.MsSQL\obj\Debug\JDash.NetFramework.Provider.MsSQL.pdb
+c:\users\volkan\documents\visual studio 2017\Projects\jdash-netstandart-api\JDash.NetFramework.Provider.MsSQL\bin\Debug\JDash.NetFramework.Models.dll
+c:\users\volkan\documents\visual studio 2017\Projects\jdash-netstandart-api\JDash.NetFramework.Provider.MsSQL\bin\Debug\Newtonsoft.Json.dll
+c:\users\volkan\documents\visual studio 2017\Projects\jdash-netstandart-api\JDash.NetFramework.Provider.MsSQL\bin\Debug\JDash.NetFramework.Models.pdb
+c:\users\volkan\documents\visual studio 2017\Projects\jdash-netstandart-api\JDash.NetFramework.Provider.MsSQL\bin\Debug\Newtonsoft.Json.xml

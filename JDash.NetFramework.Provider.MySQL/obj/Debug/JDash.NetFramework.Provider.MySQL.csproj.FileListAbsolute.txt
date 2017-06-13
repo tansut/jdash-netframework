@@ -1,0 +1,11 @@
+c:\users\volkan\documents\visual studio 2017\Projects\jdash-netstandart-api\JDash.NetFramework.Provider.MySQL\bin\Debug\JDash.NetFramework.Provider.MySQL.dll.config
+c:\users\volkan\documents\visual studio 2017\Projects\jdash-netstandart-api\JDash.NetFramework.Provider.MySQL\bin\Debug\JDash.NetFramework.Provider.MySQL.dll
+c:\users\volkan\documents\visual studio 2017\Projects\jdash-netstandart-api\JDash.NetFramework.Provider.MySQL\bin\Debug\JDash.NetFramework.Provider.MySQL.pdb
+c:\users\volkan\documents\visual studio 2017\Projects\jdash-netstandart-api\JDash.NetFramework.Provider.MySQL\bin\Debug\JDash.NetFramework.Models.dll
+c:\users\volkan\documents\visual studio 2017\Projects\jdash-netstandart-api\JDash.NetFramework.Provider.MySQL\bin\Debug\MySql.Data.dll
+c:\users\volkan\documents\visual studio 2017\Projects\jdash-netstandart-api\JDash.NetFramework.Provider.MySQL\bin\Debug\Newtonsoft.Json.dll
+c:\users\volkan\documents\visual studio 2017\Projects\jdash-netstandart-api\JDash.NetFramework.Provider.MySQL\bin\Debug\JDash.NetFramework.Models.pdb
+c:\users\volkan\documents\visual studio 2017\Projects\jdash-netstandart-api\JDash.NetFramework.Provider.MySQL\bin\Debug\Newtonsoft.Json.xml
+c:\users\volkan\documents\visual studio 2017\Projects\jdash-netstandart-api\JDash.NetFramework.Provider.MySQL\obj\Debug\JDash.NetFramework.Provider.MySQL.csprojResolveAssemblyReference.cache
+c:\users\volkan\documents\visual studio 2017\Projects\jdash-netstandart-api\JDash.NetFramework.Provider.MySQL\obj\Debug\JDash.NetFramework.Provider.MySQL.dll
+c:\users\volkan\documents\visual studio 2017\Projects\jdash-netstandart-api\JDash.NetFramework.Provider.MySQL\obj\Debug\JDash.NetFramework.Provider.MySQL.pdb

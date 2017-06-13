@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EF29E301-5152-4D58-9B44-36280318E66F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>JDash.NetFramework.Models</RootNamespace>
+    <AssemblyName>JDash.NetFramework.Models</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Infrastructure\IJDashPersistenceProvider.cs" />
+    <Compile Include="Models\CanBeNull.cs" />
+    <Compile Include="Models\CreateResult.cs" />
+    <Compile Include="Models\DashboardCreateModel.cs" />
+    <Compile Include="Models\DashboardModel.cs" />
+    <Compile Include="Models\DashboardUpdateModel.cs" />
+    <Compile Include="Models\DashletCreateModel.cs" />
+    <Compile Include="Models\DashletModel.cs" />
+    <Compile Include="Models\DashletOfLayoutModel.cs" />
+    <Compile Include="Models\DashletPositionModel.cs" />
+    <Compile Include="Models\DashletUpdateModel.cs" />
+    <Compile Include="Models\GetDashboardResult.cs" />
+    <Compile Include="Models\IPrincipalResolver.cs" />
+    <Compile Include="Models\JDashPrincipal.cs" />
+    <Compile Include="Models\LayoutDashletMetaModel.cs" />
+    <Compile Include="Models\LayoutModel.cs" />
+    <Compile Include="Models\Query.cs" />
+    <Compile Include="Models\QueryResult.cs" />
+    <Compile Include="Models\SearchDashboardModel.cs" />
+    <Compile Include="Models\SearchDashletModel.cs" />
+    <Compile Include="Models\SearchQuery.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

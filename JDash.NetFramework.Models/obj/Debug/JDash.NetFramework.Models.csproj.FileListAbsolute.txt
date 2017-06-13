@@ -1,0 +1,5 @@
+c:\users\volkan\documents\visual studio 2017\Projects\jdash-netstandart-api\JDash.NetFramework.Models\bin\Debug\JDash.NetFramework.Models.dll
+c:\users\volkan\documents\visual studio 2017\Projects\jdash-netstandart-api\JDash.NetFramework.Models\bin\Debug\JDash.NetFramework.Models.pdb
+c:\users\volkan\documents\visual studio 2017\Projects\jdash-netstandart-api\JDash.NetFramework.Models\obj\Debug\JDash.NetFramework.Models.csprojResolveAssemblyReference.cache
+c:\users\volkan\documents\visual studio 2017\Projects\jdash-netstandart-api\JDash.NetFramework.Models\obj\Debug\JDash.NetFramework.Models.dll
+c:\users\volkan\documents\visual studio 2017\Projects\jdash-netstandart-api\JDash.NetFramework.Models\obj\Debug\JDash.NetFramework.Models.pdb

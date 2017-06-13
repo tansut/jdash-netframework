@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JDash.NetFramework.Api", "JDash.NetFramework.Api\JDash.NetFramework.Api.csproj", "{04DCBC84-4334-4087-BD3F-85F4AC10FFD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JDash.NetFramework.Models", "JDash.NetFramework.Models\JDash.NetFramework.Models.csproj", "{EF29E301-5152-4D58-9B44-36280318E66F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JDash.NetFramework.Provider.MsSQL", "JDash.NetFramework.Provider.MsSQL\JDash.NetFramework.Provider.MsSQL.csproj", "{D996C60D-5CE0-47BA-944A-1AD937FC0F80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JDash.NetFramework.Provider.MySQL", "JDash.NetFramework.Provider.MySQL\JDash.NetFramework.Provider.MySQL.csproj", "{AFC04C70-DD40-441B-AA48-B39B48C3CF9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JDash.NetFramework.Mvc.DemoApp", "JDash.NetFramework.Mvc.DemoApp\JDash.NetFramework.Mvc.DemoApp.csproj", "{272A21C0-9236-4B7A-9268-5259A9A7FBBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04DCBC84-4334-4087-BD3F-85F4AC10FFD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04DCBC84-4334-4087-BD3F-85F4AC10FFD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04DCBC84-4334-4087-BD3F-85F4AC10FFD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04DCBC84-4334-4087-BD3F-85F4AC10FFD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF29E301-5152-4D58-9B44-36280318E66F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF29E301-5152-4D58-9B44-36280318E66F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF29E301-5152-4D58-9B44-36280318E66F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF29E301-5152-4D58-9B44-36280318E66F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D996C60D-5CE0-47BA-944A-1AD937FC0F80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D996C60D-5CE0-47BA-944A-1AD937FC0F80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D996C60D-5CE0-47BA-944A-1AD937FC0F80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D996C60D-5CE0-47BA-944A-1AD937FC0F80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFC04C70-DD40-441B-AA48-B39B48C3CF9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFC04C70-DD40-441B-AA48-B39B48C3CF9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFC04C70-DD40-441B-AA48-B39B48C3CF9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFC04C70-DD40-441B-AA48-B39B48C3CF9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{272A21C0-9236-4B7A-9268-5259A9A7FBBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{272A21C0-9236-4B7A-9268-5259A9A7FBBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{272A21C0-9236-4B7A-9268-5259A9A7FBBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{272A21C0-9236-4B7A-9268-5259A9A7FBBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
