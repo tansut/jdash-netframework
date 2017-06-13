@@ -1,5 +1,6 @@
 .vs
 packages
+JDash.NetFramework.Mvc.DemoApp
 JDash.NetFramework.Api\bin
 JDash.NetFramework.Api\obj
 JDash.NetFramework.Models\bin
