@@ -1,0 +1,9 @@
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Provider.MsSQL\bin\Release\JDash.NetFramework.Provider.MsSQL.dll
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Provider.MsSQL\bin\Release\JDash.NetFramework.Provider.MsSQL.pdb
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Provider.MsSQL\bin\Release\JDash.NetFramework.Models.dll
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Provider.MsSQL\bin\Release\Newtonsoft.Json.dll
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Provider.MsSQL\bin\Release\JDash.NetFramework.Models.pdb
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Provider.MsSQL\bin\Release\Newtonsoft.Json.xml
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Provider.MsSQL\obj\Release\JDash.NetFramework.Provider.MsSQL.csprojResolveAssemblyReference.cache
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Provider.MsSQL\obj\Release\JDash.NetFramework.Provider.MsSQL.dll
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Provider.MsSQL\obj\Release\JDash.NetFramework.Provider.MsSQL.pdb

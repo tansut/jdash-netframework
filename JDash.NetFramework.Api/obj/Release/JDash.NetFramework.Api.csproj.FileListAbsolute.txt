@@ -1,0 +1,15 @@
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Api\bin\Release\JDash.NetFramework.Api.dll
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Api\bin\Release\JDash.NetFramework.Api.pdb
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Api\bin\Release\JDash.NetFramework.Models.dll
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Api\bin\Release\Newtonsoft.Json.dll
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Api\bin\Release\System.Net.Http.Formatting.dll
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Api\bin\Release\System.Web.Http.dll
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Api\bin\Release\System.Web.Http.WebHost.dll
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Api\bin\Release\JDash.NetFramework.Models.pdb
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Api\bin\Release\Newtonsoft.Json.xml
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Api\bin\Release\System.Net.Http.Formatting.xml
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Api\bin\Release\System.Web.Http.xml
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Api\bin\Release\System.Web.Http.WebHost.xml
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Api\obj\Release\JDash.NetFramework.Api.csprojResolveAssemblyReference.cache
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Api\obj\Release\JDash.NetFramework.Api.dll
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Api\obj\Release\JDash.NetFramework.Api.pdb

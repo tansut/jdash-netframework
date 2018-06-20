@@ -1,0 +1,5 @@
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Models\bin\Release\JDash.NetFramework.Models.dll
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Models\bin\Release\JDash.NetFramework.Models.pdb
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Models\obj\Release\JDash.NetFramework.Models.csprojResolveAssemblyReference.cache
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Models\obj\Release\JDash.NetFramework.Models.dll
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Models\obj\Release\JDash.NetFramework.Models.pdb

@@ -3,3 +3,7 @@ c:\users\volkan\documents\visual studio 2017\Projects\jdash-netstandart-api\JDas
 c:\users\volkan\documents\visual studio 2017\Projects\jdash-netstandart-api\JDash.NetFramework.Models\obj\Debug\JDash.NetFramework.Models.csprojResolveAssemblyReference.cache
 c:\users\volkan\documents\visual studio 2017\Projects\jdash-netstandart-api\JDash.NetFramework.Models\obj\Debug\JDash.NetFramework.Models.dll
 c:\users\volkan\documents\visual studio 2017\Projects\jdash-netstandart-api\JDash.NetFramework.Models\obj\Debug\JDash.NetFramework.Models.pdb
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Models\bin\Debug\JDash.NetFramework.Models.dll
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Models\bin\Debug\JDash.NetFramework.Models.pdb
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Models\obj\Debug\JDash.NetFramework.Models.dll
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Models\obj\Debug\JDash.NetFramework.Models.pdb

@@ -9,3 +9,14 @@ c:\users\volkan\documents\visual studio 2017\Projects\jdash-netstandart-api\JDas
 c:\users\volkan\documents\visual studio 2017\Projects\jdash-netstandart-api\JDash.NetFramework.Provider.MySQL\obj\Debug\JDash.NetFramework.Provider.MySQL.csprojResolveAssemblyReference.cache
 c:\users\volkan\documents\visual studio 2017\Projects\jdash-netstandart-api\JDash.NetFramework.Provider.MySQL\obj\Debug\JDash.NetFramework.Provider.MySQL.dll
 c:\users\volkan\documents\visual studio 2017\Projects\jdash-netstandart-api\JDash.NetFramework.Provider.MySQL\obj\Debug\JDash.NetFramework.Provider.MySQL.pdb
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Provider.MySQL\bin\Debug\JDash.NetFramework.Provider.MySQL.dll.config
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Provider.MySQL\bin\Debug\JDash.NetFramework.Provider.MySQL.dll
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Provider.MySQL\bin\Debug\JDash.NetFramework.Provider.MySQL.pdb
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Provider.MySQL\bin\Debug\JDash.NetFramework.Models.dll
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Provider.MySQL\bin\Debug\MySql.Data.dll
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Provider.MySQL\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Provider.MySQL\bin\Debug\JDash.NetFramework.Models.pdb
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Provider.MySQL\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Provider.MySQL\obj\Debug\JDash.NetFramework.Provider.MySQL.csprojResolveAssemblyReference.cache
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Provider.MySQL\obj\Debug\JDash.NetFramework.Provider.MySQL.dll
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Provider.MySQL\obj\Debug\JDash.NetFramework.Provider.MySQL.pdb

@@ -246,17 +246,35 @@ namespace JDash.NetFramework.Provider.MsSQL
             using (var connection = CreateConnection())
             {
                 string statement = "delete from [" + this.defaultScheme + "].dashboard where appId = @appid and id = @id";
+                string dashletStatement = "delete from [" + this.defaultScheme + "].dashlet where dashboardId = @dashboardId";
+
+
+
                 var command = connection.CreateCommand();
                 command.CommandText = statement;
                 command.CommandType = System.Data.CommandType.Text;
-
                 command.Parameters.Add("@appid", System.Data.SqlDbType.VarChar).Value = appid;
                 command.Parameters.Add("@id", System.Data.SqlDbType.Int).Value = int.Parse(id);
 
+                var dashletCommand = connection.CreateCommand();
+                dashletCommand.CommandText = dashletStatement;
+                dashletCommand.CommandType = System.Data.CommandType.Text;
+                dashletCommand.Parameters.Add("@dashboardId", System.Data.SqlDbType.Int).Value = id;
+
+                SqlTransaction transaction = null;
                 try
                 {
                     connection.Open();
+                    transaction = connection.BeginTransaction();
+                    dashletCommand.ExecuteNonQuery();
                     command.ExecuteNonQuery();
+                    transaction.Commit();
+                }
+                catch
+                {
+                    if (transaction != null)
+                        transaction.Rollback();
+                    throw;
                 }
                 finally
                 {

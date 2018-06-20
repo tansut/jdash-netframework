@@ -13,3 +13,18 @@ c:\users\volkan\documents\visual studio 2017\Projects\jdash-netstandart-api\JDas
 c:\users\volkan\documents\visual studio 2017\Projects\jdash-netstandart-api\JDash.NetFramework.Api\obj\Debug\JDash.NetFramework.Api.csprojResolveAssemblyReference.cache
 c:\users\volkan\documents\visual studio 2017\Projects\jdash-netstandart-api\JDash.NetFramework.Api\obj\Debug\JDash.NetFramework.Api.dll
 c:\users\volkan\documents\visual studio 2017\Projects\jdash-netstandart-api\JDash.NetFramework.Api\obj\Debug\JDash.NetFramework.Api.pdb
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Api\bin\Debug\JDash.NetFramework.Api.dll
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Api\bin\Debug\JDash.NetFramework.Api.pdb
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Api\bin\Debug\JDash.NetFramework.Models.dll
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Api\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Api\bin\Debug\System.Net.Http.Formatting.dll
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Api\bin\Debug\System.Web.Http.dll
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Api\bin\Debug\System.Web.Http.WebHost.dll
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Api\bin\Debug\JDash.NetFramework.Models.pdb
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Api\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Api\bin\Debug\System.Net.Http.Formatting.xml
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Api\bin\Debug\System.Web.Http.xml
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Api\bin\Debug\System.Web.Http.WebHost.xml
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Api\obj\Debug\JDash.NetFramework.Api.csprojResolveAssemblyReference.cache
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Api\obj\Debug\JDash.NetFramework.Api.dll
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Api\obj\Debug\JDash.NetFramework.Api.pdb

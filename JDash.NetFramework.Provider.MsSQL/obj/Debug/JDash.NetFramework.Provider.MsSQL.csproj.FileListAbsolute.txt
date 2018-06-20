@@ -7,3 +7,12 @@ c:\users\volkan\documents\visual studio 2017\Projects\jdash-netstandart-api\JDas
 c:\users\volkan\documents\visual studio 2017\Projects\jdash-netstandart-api\JDash.NetFramework.Provider.MsSQL\bin\Debug\Newtonsoft.Json.dll
 c:\users\volkan\documents\visual studio 2017\Projects\jdash-netstandart-api\JDash.NetFramework.Provider.MsSQL\bin\Debug\JDash.NetFramework.Models.pdb
 c:\users\volkan\documents\visual studio 2017\Projects\jdash-netstandart-api\JDash.NetFramework.Provider.MsSQL\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Provider.MsSQL\bin\Debug\JDash.NetFramework.Provider.MsSQL.dll
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Provider.MsSQL\bin\Debug\JDash.NetFramework.Provider.MsSQL.pdb
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Provider.MsSQL\bin\Debug\JDash.NetFramework.Models.dll
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Provider.MsSQL\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Provider.MsSQL\bin\Debug\JDash.NetFramework.Models.pdb
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Provider.MsSQL\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Provider.MsSQL\obj\Debug\JDash.NetFramework.Provider.MsSQL.dll
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Provider.MsSQL\obj\Debug\JDash.NetFramework.Provider.MsSQL.pdb
+E:\Projects\Kalitte\jdash-netframework\JDash.NetFramework.Provider.MsSQL\obj\Debug\JDash.NetFramework.Provider.MsSQL.csprojResolveAssemblyReference.cache
